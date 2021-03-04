@@ -1,2 +1,3 @@
-# colorlib-template
+# srednja skola 
 
+praksa - projekt
